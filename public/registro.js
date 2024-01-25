@@ -35,3 +35,4 @@ document.getElementById('registrationForm').addEventListener('submit', function 
     event.preventDefault(); // Prevent the default form submission
     registerUser();
 });
+//a
